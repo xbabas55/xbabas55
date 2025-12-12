@@ -119,7 +119,7 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xbabas55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xbabas55&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -166,4 +166,4 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-<!-- Last updated: 2025-12-12 09:15:33 -->
+<!-- Last updated: 2025-12-12 09:18:50 -->
