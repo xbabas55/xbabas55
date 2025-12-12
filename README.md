@@ -1,64 +1,67 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaito Jhon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20|%20Unity%20&%20Unreal%20Expert%20|%20Blockchain%20Dev&descAlignY=52&descSize=18" width="100%"/>
+# 👋 Hi, I'm Kaito Jhon
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Game+Developer+%7C+Unity+Enthusiast+%F0%9F%8E%AE;Building+awesome+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+### Senior Game Developer | Unity & Unreal Expert | Multiplayer Specialist
 
-<!-- Profile Views Counter -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=xbabas55&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/xbabas55?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+<!-- Expert Badges -->
+![Game Development](https://img.shields.io/badge/Game_Development-Expert-success?style=for-the-badge)
+![Multiplayer](https://img.shields.io/badge/Multiplayer-Specialist-blue?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-5+_Years-orange?style=for-the-badge)
+![Available](https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=for-the-badge)
 
 </div>
 
-## 🤝 Let's Connect!
+## 📞 Contact Me
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArticleCompass)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbabas55)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonkaito77@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@ArticleCompass-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArticleCompass)
+[![Email](https://img.shields.io/badge/Email-jhonkaito77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonkaito77@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-xbabas55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbabas55)
+
+**💬 Available for freelance projects and long-term collaboration**
 
 </div>
 
+---
+
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm a **Senior Game Developer** based in **🇫🇮 Vantaa, Finland** with extensive experience in building high-quality games and interactive applications.
 
-```yaml
-name: Kaito Jhon
-located_in: 🇫🇮 Vantaa, Finland
-current_focus: Building multiplayer games with Unity & Unreal Engine
+**🎯 Specializations:**
+- 🎮 **Game Engines**: Unity (C#), Unreal Engine (C++), Phaser.js
+- 🌐 **Multiplayer**: Photon Fusion, Mirror Networking, Dedicated Servers
+- 📱 **Platforms**: Mobile (Android/iOS), PC, Console, Web (WebGL)
+- 🥽 **XR Development**: AR, VR, MR (ARKit, ARCore, Meta Quest)
+- ⛓️ **Blockchain**: Web3 Integration, NFT Games, Smart Contracts
+- 🔧 **Backend**: NestJS, Node.js, Game Server Architecture
 
-expertise:
-  game_engines:
-    - Unity (C#)
-    - Unreal Engine (C++)
-    - Phaser.js
-  multiplayer:
-    - Photon Fusion
-    - Mirror Networking
-    - Dedicated Servers
-  platforms:
-    - Mobile (Android/iOS)
-    - PC/Console
-    - Web (WebGL)
-  other:
-    - Blockchain/Web3
-    - Backend Development
-  
-currently_learning:
-  - Advanced multiplayer networking & blockchain integration
-  
-open_to_collaborate:
-  - Game projects, multiplayer systems, blockchain games
+---
 
-fun_fact: "I turn coffee into games and bugs into features ☕🎮"
-```
+## 💼 Services I Offer
 
-<br clear="both"/>
+- ✅ Unity Game Development (2D/3D)
+- ✅ Unreal Engine Development
+- ✅ Multiplayer Game Systems (Fusion, Mirror)
+- ✅ Mobile Game Development (Android/iOS)
+- ✅ AR/VR/MR Applications
+- ✅ Blockchain Game Integration
+- ✅ Backend Development for Games
+
+---
+
+## 🎮 Recent Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Multiplayer RPG Game** | Real-time multiplayer RPG with Photon Fusion | `Unity, C#, Photon Fusion` | Private |
+| **Mobile Casual Game** | Cross-platform mobile game with 100k+ downloads | `Unity, C#, Android/iOS` | Private |
+| **VR Experience** | Immersive VR application for Meta Quest | `Unity, C#, Meta SDK` | Private |
+| **Blockchain Game** | Play-to-earn game with NFT integration | `Unity, Solidity, Web3` | Private |
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -125,56 +128,13 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-## 📈 Contribution Graph
+## 💭 My Philosophy
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xbabas55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/xbabas55)
+> *"Write code like a ninja: silent, clean, and impossible to break."*
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xbabas55&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire"/>
-
-</div>
-
-## 💭 My Dev Philosophy
-
-<div align="center">
-
-```
-🥷 "Write code like a ninja: silent, clean, and impossible to break."
-```
-
-```
-🚀 "Clean code today, scalable chaos tomorrow."
-```
-
-```
-🌙 "Code tidy, scale mighty, debug nightly."
-```
-
-```
-📶 "Keep it DRY, scale like a WiFi signal."
-```
-
-```
-☕ "Clean, scalable, and caffeinated."
-```
+> *"Clean, scalable, and caffeinated."* ☕
 
 </div>
 
@@ -182,14 +142,17 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 <div align="center">
 
-### 💖 Thanks for visiting!
+### 🤝 Let's Build Something Amazing Together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+**💼 Open to freelance projects, full-time positions, and long-term collaborations**
 
-**⭐ Star my repos if you find them useful!**
+[![Telegram](https://img.shields.io/badge/Message_Me-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArticleCompass)
+[![Email](https://img.shields.io/badge/Send_Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonkaito77@gmail.com)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people!</b> Feel free to reach out! 😊</em>
+---
+
+<sub>Made with ❤️ by Kaito Jhon | 🇫🇮 Vantaa, Finland</sub>
 
 </div>
 
-<!-- Last updated: 2025-12-12 09:34:55 -->
+<!-- Last updated: 2025-12-12 10:03:26 -->
