@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=xbabas55&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20&%20Unity%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaito Jhon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20|%20Unity%20&%20Unreal%20Expert%20|%20Blockchain%20Dev&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Game+Developer+%7C+Unity+Enthusiast+%F0%9F%8E%AE;Building+awesome+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
@@ -18,22 +18,34 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name: xbabas55
-located_in: 🌍 Earth
-current_focus: Building awesome games with Unity
+name: Kaito Jhon
+located_in: 🇫🇮 Vantaa, Finland
+current_focus: Building multiplayer games with Unity & Unreal Engine
 
 expertise:
-  - Game Development
-  - Unity Engine
-  - C# Programming
+  game_engines:
+    - Unity (C#)
+    - Unreal Engine (C++)
+    - Phaser.js
+  multiplayer:
+    - Photon Fusion
+    - Mirror Networking
+    - Dedicated Servers
+  platforms:
+    - Mobile (Android/iOS)
+    - PC/Console
+    - Web (WebGL)
+  other:
+    - Blockchain/Web3
+    - Backend Development
   
 currently_learning:
-  - Advanced game mechanics & multiplayer systems
+  - Advanced multiplayer networking & blockchain integration
   
-looking_to_collaborate:
-  - Unity projects, game jams, open source
+open_to_collaborate:
+  - Game projects, multiplayer systems, blockchain games
 
-fun_fact: "I turn coffee into code and bugs into features ☕"
+fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 ```
 
 <br clear="both"/>
@@ -42,21 +54,36 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 <div align="center">
 
-### 🎮 Game Development
+### 🎮 Game Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser.js-8B5CF6?style=for-the-badge&logo=phaser&logoColor=white)
+
+### 🌐 Multiplayer & Networking
+![Photon Fusion](https://img.shields.io/badge/Photon%20Fusion-004480?style=for-the-badge&logo=photon&logoColor=white)
+![Mirror](https://img.shields.io/badge/Mirror-00D4FF?style=for-the-badge&logo=unity&logoColor=white)
+![Dedicated Server](https://img.shields.io/badge/Dedicated%20Server-FF6B6B?style=for-the-badge&logo=serverfault&logoColor=white)
+
+### ⛓️ Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🔧 Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
 
@@ -137,4 +164,4 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 </div>
 
-<!-- Last updated: 2025-12-12 09:02:38 -->
+<!-- Last updated: 2025-12-12 09:11:41 -->
