@@ -13,6 +13,16 @@
 
 </div>
 
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArticleCompass)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbabas55)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonkaito77@gmail.com)
+
+</div>
+
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -58,6 +68,14 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser.js-8B5CF6?style=for-the-badge&logo=phaser&logoColor=white)
+
+### 🥽 AR / VR / MR (XR)
+![AR](https://img.shields.io/badge/AR-FF6F00?style=for-the-badge&logo=augmentedreality&logoColor=white)
+![VR](https://img.shields.io/badge/VR-00D4AA?style=for-the-badge&logo=virtualreality&logoColor=white)
+![MR](https://img.shields.io/badge/MR-9B59B6?style=for-the-badge&logo=meta&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 🌐 Multiplayer & Networking
 ![Photon Fusion](https://img.shields.io/badge/Photon%20Fusion-004480?style=for-the-badge&logo=photon&logoColor=white)
@@ -134,16 +152,6 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArticleCompass)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xbabas55)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonkaito77@gmail.com)
-
-</div>
-
 ## 💭 My Dev Philosophy
 
 <div align="center">
@@ -184,4 +192,4 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-<!-- Last updated: 2025-12-12 09:32:14 -->
+<!-- Last updated: 2025-12-12 09:34:55 -->
