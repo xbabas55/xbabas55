@@ -144,11 +144,29 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-## 💭 Random Dev Quote
+## 💭 My Dev Philosophy
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+```
+🥷 "Write code like a ninja: silent, clean, and impossible to break."
+```
+
+```
+🚀 "Clean code today, scalable chaos tomorrow."
+```
+
+```
+🌙 "Code tidy, scale mighty, debug nightly."
+```
+
+```
+📶 "Keep it DRY, scale like a WiFi signal."
+```
+
+```
+☕ "Clean, scalable, and caffeinated."
+```
 
 </div>
 
@@ -166,4 +184,4 @@ fun_fact: "I turn coffee into games and bugs into features ☕🎮"
 
 </div>
 
-<!-- Last updated: 2025-12-12 09:18:50 -->
+<!-- Last updated: 2025-12-12 09:32:14 -->
